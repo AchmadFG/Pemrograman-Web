@@ -1,0 +1,164 @@
+#body {
+  background-color: rgba(178, 240, 237, 0.877);
+  margin: 0;
+  padding: 0;
+}
+
+#nav1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px 20px 40px;
+  background-color: darkgray;
+  border-bottom: 4px solid;
+}
+
+#div1 a {
+  font-size: x-large;
+}
+
+#span1 {
+  font-size: x-large;
+  margin-right: 25px;
+}
+
+#div2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#div2 a {
+  margin-right: 0px;
+}
+
+#span2 {
+  font-size: x-large;
+}
+
+#div3 {
+  display: flex;
+  padding: 50px;
+}
+
+#table1 {
+  align-items: flex-start;
+  width: 75%;
+}
+
+#td1 {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  text-align: start;
+}
+
+#img1 {
+  margin-right: 30px;
+}
+
+#span3 {
+  font-size: 1.5em;
+}
+
+#div3 hr {
+  border: none;
+  height: 2px;
+  background-color: black;
+}
+
+.h3_1 {
+  margin: 0;
+  align-items: center;
+}
+
+#h2_1 {
+  margin: 0;
+}
+
+.tr_1 {
+  text-align: left;
+}
+
+#td2 {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  text-align: start;
+}
+
+#img2 {
+  margin-right: 10px;
+}
+
+#table2 {
+  width: 25%;
+  align-items: flex-end;
+  background-color: darkgray;
+  margin-left: 20px;
+  padding: 0 20px 20px;
+  height: 50%;
+}
+
+.td3 {
+  font-size: larger;
+}
+
+.td4 {
+  text-align: right;
+  font-size: larger;
+}
+
+#td5 {
+  font-weight: bold;
+}
+
+#tr_2 {
+  align-items: center;
+}
+
+#footer1 {
+  width: 100%;
+  display: flex;
+  bottom: auto;
+  border-top: 3px solid black;
+}
+
+#table3 {
+  width: 80%;
+  align-items: flex-start;
+  padding: 0px 0px 0px 50px;
+}
+
+#tr_3 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+#tr_3 b {
+  margin-right: 40px;
+  font-size: 20px;
+}
+
+#tr_3 a {
+  font-size: 20px;
+}
+
+#tr_4 {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  text-align: start;
+}
+
+#table4 {
+  align-items: flex-end;
+  width: 20%;
+  padding: 0px 0px 50px 0px;
+}
+
+#td6 {
+  font-weight: bold;
+  font-size: 15px;
+}
