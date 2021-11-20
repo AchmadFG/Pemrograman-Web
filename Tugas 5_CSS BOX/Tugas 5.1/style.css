@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#body {
+  display: flex;
+  margin: auto;
+  padding: 50px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box-1 {
+  width: 20%;
+  height: 80vh;
+  border: 1px solid black;
+  background-color: lightblue;
+}
+
+.box-2 {
+  width: 20%;
+  height: 80vh;
+  border: 1px solid black;
+  background-color: lightsalmon;
+}
+
+.box-3 {
+  width: 20%;
+  height: 80vh;
+  border: 1px solid black;
+  background-color: lemonchiffon;
+}
+
+.box-4 {
+  width: 20%;
+  height: 80vh;
+  border: 1px solid black;
+  background-color: teal;
+}
