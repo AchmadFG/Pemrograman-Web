@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+.nav,
+.header,
+.article,
+.aside,
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+  height: 250px;
+}
+
+.nav {
+  height: 100%;
+  background-color: salmon;
+  width: 25%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+.header,
+.row,
+.footer {
+  width: 100%;
+  height: 100%;
+  background-color: sandybrown;
+}
+
+.header,
+.footer {
+  height: 25%;
+}
+
+.article {
+  width: 100%;
+  background-color: snow;
+}
+
+.aside {
+  width: 25%;
+  background-color: steelblue;
+}
